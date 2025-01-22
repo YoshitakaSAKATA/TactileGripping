@@ -8,3 +8,4 @@ VisionBasedTactileSensor2025
    rpicam-hello --lens-position 40
    ```
    
+2. a
