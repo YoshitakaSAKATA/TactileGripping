@@ -9,3 +9,6 @@ __pycache__/
 *.pyo
 
 .vscode/
+
+# obsidian
+~/document/.obsidian/
