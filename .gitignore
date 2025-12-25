@@ -14,3 +14,6 @@ __pycache__/
 document/.obsidian/
 document/2025/AdvPractice
 document/2025/IntPractice
+
+# CLI
+AGENTS.md
